@@ -1,0 +1,23 @@
+{
+  "name": "koa-web-app",
+  "version": "1.0.0",
+  "description": "Koa Web App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imparvez/koa-web-framework.git"
+  },
+  "author": "Parvez Shaikh <parvezshaikhj@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imparvez/koa-web-framework/issues"
+  },
+  "homepage": "https://github.com/imparvez/koa-web-framework#readme",
+  "dependencies": {
+    "koa": "^2.2.0",
+    "koa-route": "^3.2.0"
+  }
+}
